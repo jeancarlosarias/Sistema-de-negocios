@@ -1,0 +1,16 @@
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\bin\Debug\Negocios.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\bin\Debug\Datos.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\bin\Debug\Negocios.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\bin\Debug\Datos.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\obj\Debug\Presentacion.FRMPrincipal.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Presentacion\obj\Debug\Presentacion.FRMCategoria.resources

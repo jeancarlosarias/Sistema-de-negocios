@@ -1,0 +1,6 @@
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Entidades\bin\Debug\Entidades.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Entidades\obj\Debug\Entidades.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Entidades\obj\Debug\Entidades.pdb

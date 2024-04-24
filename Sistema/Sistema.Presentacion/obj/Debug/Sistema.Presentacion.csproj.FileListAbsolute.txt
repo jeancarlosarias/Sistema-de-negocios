@@ -1,0 +1,64 @@
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmPrincipal.resources
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmCategoria.resources
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmCategoria.resources
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmPrincipal.resources
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmCategoria.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmPrincipal.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmArticulo.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmRol.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmUsuario.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmLogin.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmProveedor.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmCliente.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.frmIngreso.resources
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ProveedorIngreso.resources

@@ -1,0 +1,14 @@
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\bin\Debug\net6.0\ClasesyObjetos.exe
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\bin\Debug\net6.0\ClasesyObjetos.deps.json
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\bin\Debug\net6.0\ClasesyObjetos.runtimeconfig.json
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\bin\Debug\net6.0\ClasesyObjetos.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\bin\Debug\net6.0\ClasesyObjetos.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.AssemblyInfoInputs.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.AssemblyInfo.cs
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\obj\Debug\net6.0\refint\ClasesyObjetos.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.genruntimeconfig.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Proyecto_1\ClasesyObjetos\ClasesyObjetos\obj\Debug\net6.0\ref\ClasesyObjetos.dll

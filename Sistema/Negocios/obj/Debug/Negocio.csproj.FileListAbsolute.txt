@@ -1,0 +1,11 @@
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\bin\Debug\Negocios.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\bin\Debug\Negocios.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\bin\Debug\Datos.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\bin\Debug\Entidades.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\bin\Debug\Datos.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\bin\Debug\Entidades.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\obj\Debug\Negocios.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Negocios\obj\Debug\Negocios.pdb

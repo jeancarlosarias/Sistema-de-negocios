@@ -1,0 +1,29 @@
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\prodi\OneDrive\Escritorio\IEESL\Programacion II\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\jeanc\Downloads\Sistema\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\bin\Debug\BarcodeStandard.dll
+C:\Users\jeanc\Downloads\LOYOLA\PROG.II\Sistema\Sistema.Datos\bin\Debug\System.Drawing.Common.dll
